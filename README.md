@@ -4,6 +4,15 @@ A simple message list, built to practice building a React app following a TDD ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Testing
+
+This app implements end-to-end tests with Cypress and component tests with Jest and React Testing Library
+
+To run the tests:
+```
+yarn cypress:open 
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
